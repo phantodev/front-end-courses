@@ -12,11 +12,12 @@ https://git-scm.com/downloads
 
 ## Scenes
 
-✔️ - We need start our "history production" of my project - command: git init, then git add . or git add filename.
-✔️ - We need put a message in this point of the timeline - command: git commit -m "here we write a message"
-✔️ - we need check some infos from my project. - command: git log and git status
-✔️ - we need start new version project (new branch or new parallel universe). - command: git branch name-of-new-branch (We can't use white spaces, ok?)
-✔️ - we need list all my branchs. - command: git branch
-✔️ - we need change to another branch. - command: git checkout name-of-the-branch
-✔️ - we need merge one branch with another branch. - command: git merge name-of-branch
-✔️ - we need delete some branch. - command: git branch -D name-of-branch
+✔️ - We need start our "history production" of my project - command: `git init`, then `git add .` or `git add filename.*`<br/>
+✔️ - We need put a message in this point of the timeline - command: `git commit -m "here we write a message"`<br/>
+✔️ - we need check some infos from my project. - command: `git log` and `git status`<br/>
+✔️ - we need start new version project (new branch or new parallel universe). - command: `git branch name-of-new-branch` (We can't use white spaces, ok?)<br/>
+✔️ - we need list all my branchs. - command: `git branch`<br/>
+✔️ - we need change to another branch. - command: `git checkout name-of-the-branch`<br/>
+✔️ - we need merge one branch with another branch. - command: `git merge name-of-branch`<br/>
+✔️ - we need delete some branch. - command: `git branch -D name-of-branch`<br/>
+✔️ - we need send my files to cloud (GITHUB, GITLAB or BITBUCKET). - command: `git remote add origin url-from-your-repository` (We need create our repository first on GITHUB)<br/>
