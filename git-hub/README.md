@@ -8,7 +8,7 @@ In this course we learn some forms of project organization patterns.
 
 We need download the installer. Simple right?
 
-https://git-scm.com/downloadss
+https://git-scm.com/downloads
 
 ## Scenes
 
@@ -23,3 +23,11 @@ https://git-scm.com/downloadss
 ✔️ - we need create my files in cloud first time (GITHUB, GITLAB or BITBUCKET). - command: `git remote add origin url-from-your-repository` (We need create our repository first on GITHUB)<br/>
 ✔️ - we need send my files to cloud. - command: `git push`<br/>
 ✔️ - we need get files (create a local clone) from cloud. - command: `git clone url-from-your-repository`<br/>
+✔️ - we need update my local files from cloud. - command: `git pull`<br/>
+✔️ - we need take some file at a point from timeline. - command `git checkout hash-tag -- file-name` (Using `git log` we can get the hash-tag)
+
+## Thanks
+
+I send applauses to Myk Brito from @rocketsteat. Great Course and very simple to understand every tips talked on video.
+
+https://www.youtube.com/watch?v=2alg7MQ6_sI
