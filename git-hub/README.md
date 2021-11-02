@@ -18,3 +18,5 @@ https://git-scm.com/downloads
 ✔️ - we need start new version project (new branch or new parallel universe). - command: git branch name-of-new-branch (We can't use white spaces, ok?)
 ✔️ - we need list all my branchs. - command: git branch
 ✔️ - we need change to another branch. - command: git checkout name-of-the-branch
+✔️ - we need merge one branch with another branch. - command: git merge name-of-branch
+✔️ - we need delete some branch. - command: git branch -D name-of-branch
