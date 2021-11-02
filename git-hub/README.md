@@ -12,5 +12,6 @@ https://git-scm.com/downloads
 
 ## Scenes
 
-✔️ - We need start our "history production" of my project - command: git init
-✔️ - we need check some changes in my project. - command:
+✔️ - We need start our "history production" of my project - command: git init, then git add . or git add filename.
+✔️ - We need put a message in this point of the timeline - command: git commit -m "here we write a message"
+✔️ - we need check some changes in my project. - command: git log and git status
